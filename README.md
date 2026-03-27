@@ -44,7 +44,7 @@ The Dashboard was built using the following tools and technologies:
 
 ## 📷 Dashboard Preview
 
-![Traas Dashboard](Screenshot 2026-03-27 164519.png)
+![Traas Dashboard][(Screenshot 2026-03-27 164519.png)](https://github.com/manishhashukla/Traas-Enterprises-Dashboard/blob/main/Screenshot%202026-03-27%20164519.png)
 
 ---
 
